@@ -48,10 +48,6 @@
               <td>Private IP</td>
               <td>PRIVATEIP</td>
             </tr>            
-            <tr>
-              <td>Public IP</td>
-              <td>PUBLICIP</td>
-            </tr>
           </table>
     </div>
       
