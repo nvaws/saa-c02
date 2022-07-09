@@ -168,7 +168,7 @@ yum install httpd -y
 systemctl start httpd
 systemctl enable httpd
 cd /var/www/html
-wget https://raw.githubusercontent.com/ashydv/aws-labs/master/index.txt
+wget https://raw.githubusercontent.com/nvaws/labs/main/index.txt
 INSTANCEID=`curl http://169.254.169.254/latest/meta-data/instance-id`
 INSTANCETYPE=`curl http://169.254.169.254/latest/meta-data/instance-type`
 PRIVATEIP=`curl http://169.254.169.254/latest/meta-data/local-ipv4`
