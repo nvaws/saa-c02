@@ -10,4 +10,4 @@ Highly Available Network Diagram
  
 The Full Application Infra Architecture
 
- ![](https://github.com/ashydv/aws-labs/blob/master/images/FullArchitectecture.png)
+ ![](https://github.com/nvaws/labs/blob/main/images/FullArchitectecture.png)
