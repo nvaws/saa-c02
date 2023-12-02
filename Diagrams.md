@@ -2,7 +2,7 @@
 
 Multi (three) Tier Architecture 
 
- ![](https://github.com/nvaws/labs/blob/main/images/ThreeTierArchitecture.png)
+ ![hi](https://github.com/nvaws/labs/blob/main/images/ThreeTierArchitecture.png)
  
 Highly Available Network Diagram 
 
